@@ -1,6 +1,6 @@
 # repoclase
 
-![myimage-alt-tag] (images/AVATAR.png?raw=true)
+![myimage-alt-tag] (AVATAR.png?raw=true)
 
 https://github.com/jaiderospina/repoclase/blob/master/
 
