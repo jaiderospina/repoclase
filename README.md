@@ -4,6 +4,7 @@
 
 https://github.com/jaiderospina/repoclase/blob/master/
 
+![myimage-alt-tag] (AVATAR.png)
 ##prueba1
 
 * Caso 1
