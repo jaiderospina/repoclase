@@ -1,6 +1,6 @@
 # repoclase
 
-![myimage-alt-tag] (AVATAR.png)
+![myimage-alt-tag] (images/avatar.png)
 
 ##prueba1
 
