@@ -1,6 +1,6 @@
 # repoclase
 
-! https://github.com/jaiderospina/repoclase/blob/master/AVATAR.png
+ ![myimage-alt-tag] (https://github.com/jaiderospina/repoclase/blob/master/AVATAR.png)
 prueba1
 
 * Caso 1
